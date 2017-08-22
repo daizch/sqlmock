@@ -1,0 +1,21 @@
+{
+  "name": "sqlmock",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "mysql": "^2.14.1"
+  },
+  "devDependencies": {
+    "debug": "^3.0.0"
+  }
+}
