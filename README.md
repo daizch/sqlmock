@@ -1,5 +1,5 @@
 # SQLMock
-根据sql表结构生成随机数据插入到数据库
+quickly generating mock data by the fields description of thedatabase table.
 
 ## install
 
